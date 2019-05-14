@@ -1,0 +1,9 @@
+C:\Users\momor1\source\repos\Saab\Entity\bin\Debug\netcoreapp2.2\Entity.deps.json
+C:\Users\momor1\source\repos\Saab\Entity\bin\Debug\netcoreapp2.2\Entity.dll
+C:\Users\momor1\source\repos\Saab\Entity\bin\Debug\netcoreapp2.2\Entity.pdb
+C:\Users\momor1\source\repos\Saab\Entity\obj\Debug\netcoreapp2.2\Entity.csprojAssemblyReference.cache
+C:\Users\momor1\source\repos\Saab\Entity\obj\Debug\netcoreapp2.2\Entity.csproj.CoreCompileInputs.cache
+C:\Users\momor1\source\repos\Saab\Entity\obj\Debug\netcoreapp2.2\Entity.AssemblyInfoInputs.cache
+C:\Users\momor1\source\repos\Saab\Entity\obj\Debug\netcoreapp2.2\Entity.AssemblyInfo.cs
+C:\Users\momor1\source\repos\Saab\Entity\obj\Debug\netcoreapp2.2\Entity.dll
+C:\Users\momor1\source\repos\Saab\Entity\obj\Debug\netcoreapp2.2\Entity.pdb

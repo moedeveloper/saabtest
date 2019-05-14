@@ -1,0 +1,11 @@
+C:\Users\momor1\source\repos\Saab\DAL\bin\Debug\netcoreapp2.2\DAL.deps.json
+C:\Users\momor1\source\repos\Saab\DAL\bin\Debug\netcoreapp2.2\DAL.runtimeconfig.json
+C:\Users\momor1\source\repos\Saab\DAL\bin\Debug\netcoreapp2.2\DAL.runtimeconfig.dev.json
+C:\Users\momor1\source\repos\Saab\DAL\bin\Debug\netcoreapp2.2\DAL.dll
+C:\Users\momor1\source\repos\Saab\DAL\bin\Debug\netcoreapp2.2\DAL.pdb
+C:\Users\momor1\source\repos\Saab\DAL\obj\Debug\netcoreapp2.2\DAL.csprojAssemblyReference.cache
+C:\Users\momor1\source\repos\Saab\DAL\obj\Debug\netcoreapp2.2\DAL.csproj.CoreCompileInputs.cache
+C:\Users\momor1\source\repos\Saab\DAL\obj\Debug\netcoreapp2.2\DAL.AssemblyInfoInputs.cache
+C:\Users\momor1\source\repos\Saab\DAL\obj\Debug\netcoreapp2.2\DAL.AssemblyInfo.cs
+C:\Users\momor1\source\repos\Saab\DAL\obj\Debug\netcoreapp2.2\DAL.dll
+C:\Users\momor1\source\repos\Saab\DAL\obj\Debug\netcoreapp2.2\DAL.pdb
